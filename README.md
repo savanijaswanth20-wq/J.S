@@ -1,7 +1,1 @@
-Hello, my name is Jaswanth.
-
-I completed my B.Com (Computers) and have skills in Python, Java, HTML, CSS, and SQL.
-During my learning journey, I focused heavily on practical implementation by building projects and attending industry events.
-I developed a School ERP project with features like admissions, attendance, marks, and fee management.
-I enjoy understanding user problems, designing solutions, building prototypes, and continuously improving them based on feedback.
-I am looking for an opportunity where I can contribute as a software developer, learn from experienced teams, and grow into an engineer capable of building scalable products.
+Hi, I'm Savani Jaswanth, a B.Com (Computers) graduate with a strong interest in software development, AI, and building real-world digital products. I have hands-on experience with Python, HTML, CSS, SQL, Firebase, AI tools, and UI/UX design. I enjoy creating practical projects such as a School ERP System with admissions, attendance, fees, marks, and parent login, as well as my own personal portfolio website. I continuously improve my skills by learning modern technologies like AI, automation, and backend development. I'm looking for opportunities where I can contribute, learn from experienced teams, and grow into a skilled software developer.
